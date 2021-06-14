@@ -9,4 +9,4 @@ Three things about me:
 *I play basketball with my friends!
 *I like playing on my xbox!
 
-![Image of Yaktocat](![image](https://user-images.githubusercontent.com/84456352/121964504-a7624f80-cd39-11eb-94d8-c9391f79da34.png)
+![image](https://user-images.githubusercontent.com/84456352/121964504-a7624f80-cd39-11eb-94d8-c9391f79da34.png)
